@@ -10,7 +10,6 @@ import org.example.chatbot.api.domain.zsxq.model.res.RespData;
  * @date : 2025-03-11 14:13
  **/
 public class UnAnsweredQuestionsAggregates {
-
     private boolean succeeded;
     private RespData resp_data;
 
